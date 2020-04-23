@@ -33,10 +33,6 @@ module.exports = {
     "import/no-named-as-default": "off",
     "import/extensions": "off",
     "import/no-unresolved": "off",
-    "react/jsx-filename-extension": [
-      "warn",
-      { extensions: [".js"] },
-    ],
     "react/jsx-props-no-spreading": "off",
     "react-redux/prefer-separate-component-file": "off",
   },
