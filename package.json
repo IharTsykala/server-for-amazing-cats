@@ -1,0 +1,24 @@
+{
+  "name": "serverForAmazingCats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IharTsykala/server-for-amazing-cats.git"
+  },
+  "author": "Ihar Tsykala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IharTsykala/server-for-amazing-cats.git/issues"
+  },
+  "homepage": "https://github.com/IharTsykala/server-for-amazing-cats.git#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
