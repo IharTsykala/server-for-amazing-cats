@@ -1,5 +1,5 @@
 {
-  "basepath": "https:/localhost:8080/tz20",
+  "basepath": "http://localhost:8080/tz20",
   "data": [
     {
       "id": 11,
