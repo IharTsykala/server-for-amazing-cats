@@ -17,7 +17,7 @@ app.use(function (req, res, next) {
 app.get("/", (req, res) => {
   res.end(
     `<div><h1>This server was creating for support application: 
-    <a href="https://ihartsykala.github.io/large-scale-solutions-ts-react-redux/">"Amazing cats"</a>.
+    <a href="https://ihartsykala.github.io/amazing-cats/">"Amazing cats"</a>.
     </h1></div>`
   )
 })
