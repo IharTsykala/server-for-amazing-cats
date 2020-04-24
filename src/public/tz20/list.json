@@ -1,5 +1,5 @@
 {
-  "basepath": "http://localhost:8080/tz20",
+  "basepath": "https://amazing-cats.herokuapp.com/tz20",
   "data": [
     {
       "id": 11,
